@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 *.pkl
 *.pickle
+/data
+/data_array
